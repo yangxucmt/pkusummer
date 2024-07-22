@@ -52,5 +52,6 @@ I will be focusing on the following topics:
 
 There will be one homework problem per lecture to help students get familiar with ideas and calculations.   
 
+Scan the QR code below to get up-to-date notice about the class:
 ![WechatIMG1314](https://github.com/user-attachments/assets/74cbf994-e994-4d22-a626-5310aae0b4ae)
 
