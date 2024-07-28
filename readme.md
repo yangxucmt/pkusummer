@@ -14,7 +14,7 @@ This short course will be lectures aiming at providing students with a perspecti
 
 date：July 23rd/29th/30th, Aug 1st/3rd/5th 
 
-time：09:00-10:00
+time：3:30-4:30pm
 
 【地点】
 
