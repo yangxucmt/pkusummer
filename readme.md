@@ -18,7 +18,7 @@ time：3:30-4:30pm
 
 【地点】
 
-Room 412, Zhihua Building
+Room 409, Zhihua Building
 
 【推荐读物】
 
