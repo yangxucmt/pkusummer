@@ -40,13 +40,13 @@ I will be focusing on the following topics:
 
 2. Distinction between metals and insulators: electric conductivity and beyond
 
-3. Insulators (I): Lieb-Robinson bound and its manifestation in ground states and dynamics
+3. Insulators (I): Lieb-Robinson bound
 
-4. Insulators (II): topological order in the tensor network formulation
+4. Insulators (II): Applications of Lieb-Robinson bound
 
-5. Metals (I): Fermi surface, semiclassical dynamics
+5. Insulators (III): Matrix product state representation of gapped quantum matter
 
-6. Metals (II): quantum geometry
+6. Metals : quantum geometry
 
 【作业】
 
