@@ -44,9 +44,9 @@ I will be focusing on the following topics:
 
 4. Insulators (II): Application of Lieb-Robinson bound and the matrix product state representation
 
-5. Metals (I): Fermi liquids and fermi surfaces
+5. Quantum geometry (I): Quantum metric
 
-6. Metals (II): quantum geometry
+6. Quantum geometry (II): Berry curvature
 
 【作业】
 
